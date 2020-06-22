@@ -1,0 +1,35 @@
+{
+  "name": "js-data-server",
+  "version": "1.0.0",
+  "description": "Data filter for JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrbenjones/js-data-server.git"
+  },
+  "keywords": [
+    "data",
+    "stream",
+    "functional"
+  ],
+  "author": "Benjamin Jones",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/mrbenjones/js-data-server/issues"
+  },
+  "homepage": "https://github.com/mrbenjones/js-data-server#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "babel-jest": "^26.0.1",
+    "csv-parser": "^2.3.3",
+    "express": "^4.17.1",
+    "file-system": "^2.2.2",
+    "jest": "^26.0.1",
+    "kue": "^0.11.6",
+    "papaparse": "^5.2.0",
+    "redis": "^3.0.2"
+  }
+}
