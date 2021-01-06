@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/mrbenjones/js-data-server#readme",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "babel-jest": "^26.0.1",
     "csv-parser": "^2.3.3",
     "express": "^4.17.1",
